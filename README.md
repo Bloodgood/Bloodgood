@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти курс по Git
 * [ ] Пройти обучение по Linux и сетям
-* [ ] \
+* [ ] GitLab CI
+* [ ] Docker
+* [ ] Selectel Cloud
+* [ ] 
 <!-- TODO-IST:END -->
