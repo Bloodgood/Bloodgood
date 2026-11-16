@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти курс по Git
-* [ ]    
+* [ ] Пройти обучение по Linux и сетям
+* [ ] \
 <!-- TODO-IST:END -->
